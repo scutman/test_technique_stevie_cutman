@@ -1,3 +1,6 @@
+#Dépendance à installer
+npm i dans le terminal pour les dossiers front et back
+
 # Test technique
 
 Ce test est destiné à évaluer ta logique et ton niveau de compétences / reflexion. Prend ton temps pour le faire correctement, la forme est aussi importante que le fond. N'hésites pas à détailler ta démarche.
